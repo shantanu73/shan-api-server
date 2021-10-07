@@ -1,0 +1,1 @@
+"C:\Python38\python.exe"  "C:\Program Files\shan-api-server\app.py"
